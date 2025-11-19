@@ -1,0 +1,5 @@
+{
+  "name": "FastShip AI - Quản Lý Giao Nhận",
+  "description": "Hệ thống quản lý vận đơn thông minh tích hợp Gemini để phân loại hàng hóa, dự đoán thời gian giao hàng và xử lý dữ liệu từ Google Sheets/Drive.",
+  "requestFramePermissions": []
+}
